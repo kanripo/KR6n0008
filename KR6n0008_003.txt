@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:26.340569
+#+DATE: 2015-08-30 20:55:29.738809
 #+TITLE: 瑜伽師地論略纂
 #+PROPERTY: CBETA_ID T43n1829
 #+PROPERTY: ID KR6n0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1829
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6n0008_T_003-0033a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 第三(論本六-八)瑜伽師地論略纂卷第三(論本第六第七第八)¶
+瑜伽師地論略纂卷第三(論本第六第七第八)¶
 ¶
 基撰¶
 
@@ -1062,7 +1061,7 @@
 
 吉祥論中亦有四。日月蝕等時。然不吉祥。為¶
 事不成。若隨順彼精懃供養。眾事皆成　餉¶
-佉者。即前所說䗍貝也　但見日月乃至眾¶
+佉者。即前所說[彖/虫]貝也　但見日月乃至眾¶
 生淨不淨業果報成熟等者。逢日等蝕時。眾¶
 生善惡業成熟故。隨應獲果。見惡果者。謂由¶
 不順日月等故。招不吉祥。見善果者。謂由隨¶
