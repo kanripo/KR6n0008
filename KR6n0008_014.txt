@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:26.876089
+#+DATE: 2015-08-30 20:55:27.978189
 #+TITLE: 瑜伽師地論略纂
 #+PROPERTY: CBETA_ID T43n1829
 #+PROPERTY: ID KR6n0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1829
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6n0008_T_014-0189b> ¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 第十四(論本五十四-五十五)瑜伽師地論略纂卷第十四(論本第五十四五)¶
+瑜伽師地論略纂卷第十四(論本第五十四五)¶
 ¶
 基撰¶
 

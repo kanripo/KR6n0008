@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:26.966571
+#+DATE: 2015-08-30 20:55:28.069259
 #+TITLE: 瑜伽師地論略纂
 #+PROPERTY: CBETA_ID T43n1829
 #+PROPERTY: ID KR6n0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1829
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6n0008_T_016-0219c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 第十六(論本六十一-六十六)瑜伽師地論略纂卷第十六¶
+瑜伽師地論略纂卷第十六¶
 (論本六十一二三四五六)¶
 ¶
 基撰¶
@@ -709,7 +708,7 @@
 婆羅門惡呪術名聽聞究竟者。彼云我此呪¶
 但聽聞。即得功德。為事究竟。不可解釋也。¶
 
-論云一字通達通達為常者。即如𧙃阿字。知¶
+論云一字通達通達為常者。即如[褒-保+可]阿字。知¶
 為常。必不可改轉。此是字本故也　字義通¶
 達達為無常者。即字所證之義。可轉變隨方¶
 處。義則立故名無常也。如眼名眼。亦名為照¶
