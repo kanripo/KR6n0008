@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:26.516967
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:31
 #+TITLE: 瑜伽師地論略纂
 #+PROPERTY: CBETA_ID T43n1829
 #+PROPERTY: ID KR6n0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1829
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0008_T_006-0084c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 第六(論本十三-十五)瑜伽師地論略纂卷第六(論本第十三第十四第十五)¶
+瑜伽師地論略纂卷第六(論本第十三第十四第十五)¶
 ¶
 基撰¶
 
@@ -634,7 +633,7 @@
 復有四清淨道。一非功用根圓滿等者。此即¶
 四行跡。謂苦遲通。苦速通。樂遲通。樂速通。¶
 如次配之。鈍根名遲。利根名速。未至及無色¶
-地名苦。定慧一偏故。根本靜慮名樂。雙道轉¶
+地名苦。定慧一偏故。根本靜盧名樂。雙道轉¶
 故。雖未至地名有喜樂。未圓滿故。但名為苦¶
 　功用根者。謂練根也。然菩薩地。依凡聖差¶
 別。與此不同。及至聲聞地當辨。¶

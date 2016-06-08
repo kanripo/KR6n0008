@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:26.966571
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:31
 #+TITLE: 瑜伽師地論略纂
 #+PROPERTY: CBETA_ID T43n1829
 #+PROPERTY: ID KR6n0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1829
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0008_T_016-0219c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 第十六(論本六十一-六十六)瑜伽師地論略纂卷第十六¶
+瑜伽師地論略纂卷第十六¶
 (論本六十一二三四五六)¶
 ¶
 基撰¶

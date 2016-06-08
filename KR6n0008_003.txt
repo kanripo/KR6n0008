@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:26.340569
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:31
 #+TITLE: 瑜伽師地論略纂
 #+PROPERTY: CBETA_ID T43n1829
 #+PROPERTY: ID KR6n0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1829
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0008_T_003-0033a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 第三(論本六-八)瑜伽師地論略纂卷第三(論本第六第七第八)¶
+瑜伽師地論略纂卷第三(論本第六第七第八)¶
 ¶
 基撰¶
 
@@ -1656,9 +1655,9 @@
 「　殺麁瞋由恚
 　盜邪貪由貪¶
 　三三邪見癡
-　惡業道究竟
+　惡業道究竟」
 #+END_VERSE
-」¶
+¶
 
 十業道中。殺生．邪行．妄語．離間．麁語．瞋恚。¶
 此六業道。有情處起。不與取及貪欲。資財處¶
@@ -1670,9 +1669,9 @@
 「　有情及資財
 　名身諸行處¶
 　六二與一一
-　如次業道起
+　如次業道起」
 #+END_VERSE
-」¶
+¶
 
 十善業道中一一皆有五。謂事．想．業．煩惱．¶
 究竟。如理應知。¶
